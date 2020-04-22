@@ -19,6 +19,24 @@ https://www.youtube.com/watch?v=Jskg6gfSGd8
 
 I found this video while researching for Assessment 1 and it was an inspiration for my project. It's a robot with a simple function made possible by the micro:bit. A small detail I liked was the sound of the coin container slapping back on the table after storing the coins - it unintentially gives the robot character. 
 
+### Related project 2 ###
+Micro:bit milk jar robot
+
+https://youtu.be/Ah4fEbJtklU
+
+![Image](related2.png)
+
+Similarly to the first related project, it's another cute robot friend. Seeing this project made me consider putting movement in my project, but it did definitely give me ideas on how to give my coinbank some personality. 
+
+### Related project 3 ###
+Interactive Animal Coin Bank
+
+https://www.youtube.com/watch?v=qJ--GDy52ns
+
+![Image](related3.png)
+
+A popular interactive toy that has a simple sensor to detect the weight of the coin, and then a character that grabs the coin. Video attached shows the mechanisms inside. 
+
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
