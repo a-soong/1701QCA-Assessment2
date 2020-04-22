@@ -49,15 +49,18 @@ A popular interactive toy that has a simple sensor to detect the weight of the c
 ### Design intent ###
 A device that displays emotion until a certain action is complete. 
 
-### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
-
 ### Design concept 2 ###
-*Put details here.*
+
+![Image](concept2.png)
+
+### Design concept 3 ###
+
+![Image](concept3.png)
 
 ### Final design concept ###
+
+![Image](concept1.png)
+
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
