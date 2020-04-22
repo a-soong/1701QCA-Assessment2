@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=Jskg6gfSGd8
 
 ![Image](related1.png)
 
-I found this video while researching for Assessment 1 and it was an inspiration for my project. It's a robot with a simple function made possible by the micro:bit. 
+I found this video while researching for Assessment 1 and it was an inspiration for my project. It's a robot with a simple function made possible by the micro:bit. A small detail I liked was the sound of the coin container slapping back on the table after storing the coins - it unintentially gives the robot character. 
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
