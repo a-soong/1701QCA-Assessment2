@@ -37,6 +37,15 @@ https://www.youtube.com/watch?v=qJ--GDy52ns
 
 A popular interactive toy that has a simple sensor to detect the weight of the coin, and then a character that grabs the coin. Video attached shows the mechanisms inside. 
 
+### Related project 4 ###
+Fish Bank 
+
+https://www.youtube.com/watch?v=qVyXm434qMU
+
+![Image](related4.png)
+
+An interactive coin bank by Moose toys. I don't think this product was a huge success but it caught my eye when I was young. When a coin is inserted, a sequence of animation appears on the screen. Counts the money inserted in the bank and has various other interactive options. 
+
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
