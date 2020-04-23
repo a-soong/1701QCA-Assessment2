@@ -90,4 +90,8 @@ I began coding simply and am currently experimenting.
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+I've still got to: 
+- create a prototype 
+- attach an external button
+- finish the code
+- trials
