@@ -81,16 +81,11 @@ Final design 1:
 ![Image](flowchart.png)
 
 ## Physical experimentation documentation ##
+I began by making a quick mockup of the device so I could have something tangible to play with.
+![Image](mockup1.png)
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
-
-![Image](missingimage.png)
-
+I began coding simply and am currently experimenting.
+![Image](code1.png)
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
