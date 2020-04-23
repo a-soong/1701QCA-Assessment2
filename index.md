@@ -94,5 +94,6 @@ For this project I wanted to create a simple robot 'friend' with a quirk. It's n
 I've still got to: 
 - create the final model
 - attach an external button
-- finish the code
+- work more on the code
+- finalise code
 - trials
