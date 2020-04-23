@@ -42,6 +42,15 @@ https://www.youtube.com/watch?v=qVyXm434qMU
 
 An interactive coin bank by Moose toys. I don't think this product was a huge success but it caught my eye when I was young. When a coin is inserted, a sequence of animation appears on the screen. Counts the money inserted in the bank and has various other interactive options. 
 
+### Related project 5 ###
+Fisher-Price Laugh & Learn: Learning Piggy Bank
+
+https://www.fisher-price.com/en-us/product/laugh-learn-smart-stages-piggy-bank-cdg67
+
+![Image](related5.png)
+
+An interactive coin bank toy by Fisher Price. 
+
 ## Other research ##
 I've had a look into what I could use to implement the motion sensing for this project. I have a ultrasonic sensor lying around but I don't think that'll do the job. After some research into other projects I found a Arduino Compatible PIR Motion Detector Module (https://www.jaycar.com.au/arduino-compatible-pir-motion-detector-module/p/XC4444), but after having spoken to a Jaycar Representative they've let me know that I'd need a T-Adaptor shield. Because of self isolating as well, I've decided against this and I had the idea of implementing a similar design inspired by my timing gates project. 
 
