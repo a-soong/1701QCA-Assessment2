@@ -67,8 +67,10 @@ A device that displays emotion until a certain action is complete.
 ![Image](concept3.png)
 
 ### Final design concept ###
-
+Original few designs for concept 1:
 ![Image](concept1.png)
+Final design 1:
+![Image](expandingconcept.png)
 
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
