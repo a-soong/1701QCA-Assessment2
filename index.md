@@ -84,7 +84,7 @@ I began by making a quick mockup of the device so I could have something tangibl
 I began coding simply and am currently experimenting.
 ![Image](code1.png)
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+For this project I wanted to create a simple robot 'friend' with a quirk. It's not an unique innovative concept or design, it's really just for fun and a bit of novelty. I spent a lot of time researching and looking into similar designs, and to see what sort of functions I could and couldn't get to work with the micro:bit. If this project was using Arduino I think I'd be able to do a bit more with adding sensors in this timeframe, but with the current situation and the micro:bit it's really just playing around and seeing what's going to work best and what isn't. 
 
 ## Next steps ##
 I've still got to: 
