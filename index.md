@@ -20,7 +20,7 @@ https://youtu.be/Ah4fEbJtklU
 
 ![Image](related2.png)
 
-Similarly to the first related project, it's another cute robot friend. Seeing this project made me consider putting movement in my project, but it did definitely give me ideas on how to give my coinbank some personality. 
+Similarly to the first related project, it's another cute robot friend. Seeing this project made me consider putting movement in my project, but it did definitely give me ideas on how to give my coin bank some personality. Maybe incorporate some movement?
 
 ### Related project 3 ###
 Interactive Animal Coin Bank
@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=qJ--GDy52ns
 
 ![Image](related3.png)
 
-A popular interactive toy that has a simple sensor to detect the weight of the coin, and then a character that grabs the coin. Video attached shows the mechanisms inside. 
+A popular interactive toy that has a simple sensor to detect the weight of the coin, and then a character that grabs the coin. Video attached shows the mechanisms inside. This relates to my porject in terms of an event happening after the coin is inserted/placed in. 
 
 ### Related project 4 ###
 Fish Bank 
@@ -47,8 +47,7 @@ https://www.fisher-price.com/en-us/product/laugh-learn-smart-stages-piggy-bank-c
 
 ![Image](related5.png)
 
-An interactive coin bank toy by Fisher Price. 
-
+An interactive coin bank toy by Fisher Price. Has a sensor as it counts the coins and has other features such as music, silly sounds and phrases. Related to my project by it's function. 
 ## Other research ##
 I've had a look into what I could use to implement the motion sensing for this project. I have a ultrasonic sensor lying around but I don't think that'll do the job. After some research into other projects I found a Arduino Compatible PIR Motion Detector Module (https://www.jaycar.com.au/arduino-compatible-pir-motion-detector-module/p/XC4444), but after having spoken to a Jaycar Representative they've let me know that I'd need a T-Adaptor shield. Because of self isolating as well, I've decided against this and I had the idea of implementing a similar design inspired by my timing gates project. 
 
