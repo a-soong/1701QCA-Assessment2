@@ -97,3 +97,5 @@ I've still got to:
 - work more on the code
 - finalise code
 - trials
+
+I've got a lot more to still do but I'm glad I've made a start. 
