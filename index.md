@@ -88,7 +88,7 @@ Testing the tunes with a buzzer on the breadboard:
 
 Nothing groundbreaking but I'm glad that at least something works. At this stage it plays the opening tune when turned on and then the angry tune after 5000 m/s. 
 ## Design process discussion ##
-For this project I wanted to create a simple robot 'friend' with a quirk. It's not an unique innovative concept or design, it's really just for fun and a bit of novelty. I spent a lot of time researching and looking into similar designs, and to see what sort of functions I could and couldn't get to work with the micro:bit. If this project was using Arduino I think I'd be able to do a bit more with adding sensors in this timeframe, but with the current situation and the micro:bit it's really just playing around and seeing what's going to work best and what isn't. 
+For this project I wanted to create a simple robot 'friend' with a quirk. It's not an innovative concept or design, it's really just for fun and a bit of novelty. I spent a lot of time researching and looking into similar designs, and to see what sort of functions I could and couldn't get to work with the micro:bit. If this project was using Arduino I think I'd be able to do a bit more with adding sensors in this timeframe, but with the current situation and the micro:bit it's really just playing around and seeing what's going to work best and what isn't. 
 
 ## Next steps ##
 I've still got to: 
